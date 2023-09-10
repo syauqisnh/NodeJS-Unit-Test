@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-unit-test",
+  "version": "1.0.0",
+  "description": "Belajar NodeJS Unit Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syauqisnh/NodeJS-Unit-Test.git"
+  },
+  "author": "Syauqi Nur Hibatullah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syauqisnh/NodeJS-Unit-Test/issues"
+  },
+  "homepage": "https://github.com/syauqisnh/NodeJS-Unit-Test#readme"
+}
